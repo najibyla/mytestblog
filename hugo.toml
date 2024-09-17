@@ -1,0 +1,4 @@
+baseURL = 'https://najibyla.github.io/mytestblog/'
+languageCode = 'fr-fr'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
